@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-96p6u3.md-ai.net/sitemap.xml
